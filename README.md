@@ -1,13 +1,23 @@
 # Infrastructuretool
 
-P code can be used for users with Matlab program. Also, the toolobox link for users without the program is as follows.
+Table of Contents
+Introduction
+Installation
+Usage
+Contributing
+License
 
-https://drive.google.com/open?id=1NZo_FWJ5Evz5mZaIiCVQugBog3s8KcsM
+# Introduction
+The project is a Matlab tool that provides a GUI for infrastructure. The GUI allows users to easily modify infrastructure elements, such as open channels. The tool can be used for a variety of applications, such as urban planning, civil engineering, and transportation management.
 
-Note: .p files are the end user code, which we can't see like any other .m files.
-to run the .p files, simply keep it in your current directory of matlab,
-Method 1:
-Right click on file and select 'run'.
-Method 2:
-Simply type the filename on command window (without extension). Please look for more detail : https://www.mathworks.com/matlabcentral/answers/290827-how-to-run-a-p-code-matlab
+# Installation
+To use the Matlab tool, you will need to have Matlab installed on your computer. Once you have Matlab installed, simply download the code from the Github repository and run the main script (IFSTool.m).
 
+# Usage
+To use the tool, simply open the Matlab script and run it. The GUI will appear, and you can start interacting with the infrastructure elements. The GUI provides a variety of features, such as the ability to zoom in and out, rotate the view, and select individual elements. You can also calculate of particle Froude number.
+
+# Contributing
+Contributions to the project are welcome. If you would like to contribute, please fork the repository and submit a pull request.
+
+# License
+The project is licensed under the GPL License.
